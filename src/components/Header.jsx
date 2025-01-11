@@ -25,7 +25,6 @@ export default function Header() {
             <SignedOut>
               <SignInButton/>
             </SignedOut>
-            
           </ul>
         </nav>
       </div>
